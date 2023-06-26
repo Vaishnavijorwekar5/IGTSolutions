@@ -1,7 +1,7 @@
 // max in array
 import java.util.Scanner;
 
-public class Demo24
+public class Demo2
 {
   public static void main(String args[])
   {
